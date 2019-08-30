@@ -1,0 +1,12 @@
+{
+  "description": "clock",
+  "name": "roman/clock",
+  "type": "project",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Clock\\": "states"
+    },
+    "files": []
+  }
+}
